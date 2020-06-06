@@ -1,6 +1,7 @@
 # Jinyang Wang
 
-## Ph.D. of Computer Vision of Medical Image  ![图片alt](./image.jpg ''图片title'')
+## Ph.D. of Computer Vision of Medical Image  
+![图片alt](./image.jpg ''图片title'')
 Email:  yangyangnuc@outlook.com 
 
 
