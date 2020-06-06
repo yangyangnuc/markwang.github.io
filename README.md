@@ -35,13 +35,3 @@ Mar. 2018: Six papers (including one Spotlight) are accepted by CVPR 2018.
 
 Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
 [Project] [Paper] [MATALB code]
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
