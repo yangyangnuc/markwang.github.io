@@ -2,7 +2,7 @@
 
 
 
-## Master of Computer Vision of Medical Image                
+## Master of Control Engineering               
 
 Email:  yangyangnuc@outlook.com 
 
