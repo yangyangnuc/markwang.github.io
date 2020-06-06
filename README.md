@@ -1,14 +1,14 @@
-## Jinyang Wang
+# Jinyang Wang
 
 ## Ph.D. of Computer Vision of Medical Image
+Email:  yangyangnuc@outlook.com
 
 
-
-### Research Interest
+## Research Interest
 
 My research interest includes image deblurring, image/video enhancement and analysis, and related vision problems.
 
-# Latest News
+## Latest News
 Feb. 2020: Two papers are accepted by CVPR 2020.
 Jan. 2020: One paper is accepted by TPAMI.
 Jan. 2020: Three papers are accepted by IEEE TIP.
@@ -25,7 +25,7 @@ Mar. 2018: Six papers (including one Spotlight) are accepted by CVPR 2018.
 Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
 [Project] [Paper] [MATALB code]
 
-### Header 3
+
 
 
 
