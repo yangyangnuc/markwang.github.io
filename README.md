@@ -2,7 +2,7 @@
 
 
 
-## Ph.D. of Computer Vision of Medical Image                
+## Master of Computer Vision of Medical Image                
 
 Email:  yangyangnuc@outlook.com 
 
