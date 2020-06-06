@@ -1,4 +1,4 @@
-## Jinyang Wang's GitHub Pages
+## Jinyang Wang
 
 ## Ph.D. of Computer Vision of Medical Image
 
