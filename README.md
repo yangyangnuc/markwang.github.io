@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Jinyang Wang's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yangyangnuc/markwang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Ph.D. of Computer Vision of Medical Image
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Interest
 
-```markdown
-Syntax highlighted code block
+My research interest includes image deblurring, image/video enhancement and analysis, and related vision problems.
 
-# Header 1
-## Header 2
+# Latest News
+Feb. 2020: Two papers are accepted by CVPR 2020.
+Jan. 2020: One paper is accepted by TPAMI.
+Jan. 2020: Three papers are accepted by IEEE TIP.
+Dec. 2019: Two papers are accepted by AAAI 2020.
+Sep. 2019: Two papers are accepted by ICCV 2019.
+Apr. 2019: We have released our stereo blur dataset [download].
+Mar. 2019: Two papers (including one Oral) are accepted by CVPR 2019.
+Jan. 2019: Two papers are accepted by IJCV.
+Jul. 2018: One paper is accepted by ECCV 2018.
+Mar. 2018: One paper is accepted by TPAMI.
+Mar. 2018: Six papers (including one Spotlight) are accepted by CVPR 2018.
+## Selected Publications 
+
+Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
+[Project] [Paper] [MATALB code]
+
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangyangnuc/markwang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
