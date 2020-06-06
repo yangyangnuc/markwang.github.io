@@ -1,6 +1,6 @@
 # Jinyang Wang
 
-<img src="./image.jpg" alt="图片替换文本" width="154" height="219" align="bottom" />   
+<img src="./image.jpg" alt="图片替换文本" width="77" height="110" align="bottom" />   
 
 ## Ph.D. of Computer Vision of Medical Image  
 
