@@ -1,6 +1,6 @@
 # Jinyang Wang
 
-!["d"](./image.jpg " ")    
+<img src="./image.jpg" alt="图片替换文本" width="500" height="313" align="bottom" />   
 
 ## Ph.D. of Computer Vision of Medical Image  
 
