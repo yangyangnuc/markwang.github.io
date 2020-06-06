@@ -1,8 +1,8 @@
-# Jinyang Wang
+# Jinyang Wang    <img src="./image.jpg" alt="" width="77" height="110" align="right" /> 
 
 
 
-## Ph.D. of Computer Vision of Medical Image              <img src="./image.jpg" alt="" width="77" height="110" align="right" />   
+## Ph.D. of Computer Vision of Medical Image                
 
 Email:  yangyangnuc@outlook.com 
 
