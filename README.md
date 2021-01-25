@@ -1,15 +1,17 @@
-# Jinyang Wang    <img src="./images/image.png" alt="" width="77" height="110" align="right" /> 
+# Basic Info. 
+Jinyang Wang    <img src="./images/image.png" alt="" width="77" height="110" align="right" /> 
 
-
-
-## Master of Control Engineering               
-## North University of China
+Education, Master of Control Engineering, North University of China
 Email:  yangyangnuc AT outlook DOT com 
 
 
-## Research Interest
+# Research Interest
 
 My research interest includes Vision SLAM, Object Detection and 6DOF measurement problems.
+
+# Engineering 
+
+
 
 ## Latest News
 Feb. 2020: Two papers are accepted by CVPR 2020.      
