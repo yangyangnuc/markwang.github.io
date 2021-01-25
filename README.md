@@ -39,9 +39,8 @@
 
 **May. 2009, Barrier Detection Based on Jordan Curve Theorem**  
 
-
+<table>
  <tr>
-    <th>
        <td> 
        <img src="./images/barrier_detection1.jpeg" width = "240" height = "330"  />
        </td>
@@ -51,10 +50,8 @@
         <td>
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
         </td>
-    </th>
-
   </tr>
-   
+</table>   
 
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
