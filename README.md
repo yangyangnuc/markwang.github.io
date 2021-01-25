@@ -1,15 +1,3 @@
-<body>
-    <table  border=1>
-        <tr>
-        <th>Month</th>
-        <th>Savings</th>
-        </tr>
-        <tr>
-        <td>January</td>
-        <td>$100</td>
-        </tr>
-    </table>
-</body>
 
 # Basic Info. 
     Jinyang Wang   王金洋  
@@ -24,13 +12,28 @@
     Object Detection and 6DOF measurement problems.
 
 -----------------------------------------------------
+
+
+
+
+
 ## Mar. 2010, Vehicle Lane Detection Based On Particle Filter  
 
 <img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=center />   
 
-<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=center />     
+<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=right />     
 
-------------[code](www.baidu.com)-------[video](www.yahoo.com)--------------   
+------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+
+-----------------------------------------------------  
+
+## May. 2009, Barrier Detection Based on Jordan Curve Theorem  
+
+<img src="./images/barrier_detection1.jpeg" width = "240" height = "330" div align=center />   
+
+<img src="./images/barrier_detection2.jpeg" width = "240" height = "330" div align=right />     
+
+------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
 
 -----------------------------------------------------  
 
