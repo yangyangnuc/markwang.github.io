@@ -42,14 +42,15 @@
 
  <tr>
     <th>
-        <img src="./images/barrier_detection1.jpeg" width = "240" height = "330"  />
-    </th>
-    <th>
+       <td> 
+       <img src="./images/barrier_detection1.jpeg" width = "240" height = "330"  />
+       </td>
+       <td>
         <img src="./images/barrier_detection2.jpeg" width = "240" height = "330" />     
-    </th>
-    <th>
+       </td>
+        <td>
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
-
+        </td>
     </th>
 
   </tr>
