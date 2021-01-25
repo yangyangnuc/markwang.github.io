@@ -21,7 +21,7 @@
 
 <img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=center />   
 
-<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=right />     
+<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=center />     
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
 
@@ -31,7 +31,7 @@
 
 <img src="./images/barrier_detection1.jpeg" width = "240" height = "330" div align=center />   
 
-<img src="./images/barrier_detection2.jpeg" width = "240" height = "330" div align=right />     
+<img src="./images/barrier_detection2.jpeg" width = "240" height = "330" div align=center />     
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
 
