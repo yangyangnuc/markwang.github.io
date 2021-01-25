@@ -1,4 +1,4 @@
-# Jinyang Wang    <img src="./image.png" alt="" width="77" height="110" align="right" /> 
+# Jinyang Wang    <img src="./images/image.png" alt="" width="77" height="110" align="right" /> 
 
 
 
