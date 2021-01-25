@@ -1,3 +1,16 @@
+<body>
+    <table  border=1>
+        <tr>
+        <th>Month</th>
+        <th>Savings</th>
+        </tr>
+        <tr>
+        <td>January</td>
+        <td>$100</td>
+        </tr>
+    </table>
+</body>
+
 # Basic Info. 
     Jinyang Wang   王金洋  
     Master of Control Engineering, North University of China, Sep 2012 - July 2015  
@@ -13,9 +26,9 @@
 -----------------------------------------------------
 ## Mar. 2010, Vehicle Lane Detection Based On Particle Filter  
 
-<img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=left />   
+<img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=center />   
 
-<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=left />     
+<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=center />     
 
 ------------[code](www.baidu.com)-------[video](www.yahoo.com)--------------   
 
