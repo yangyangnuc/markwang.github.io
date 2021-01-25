@@ -11,11 +11,11 @@
     Object Detection and 6DOF measurement problems.
 
 -----------------------------------------------------
-## Mar. 2010: Vehicle Lane Detection Based On Particle Filter  
+## Mar. 2010, Vehicle Lane Detection Based On Particle Filter  
 
 <img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=left />   
 
-<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=right />     
+<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=left />     
 
 ------------[code]-------[video]--------------   
 
@@ -28,7 +28,7 @@
 
 
   
-  
+
   
 
 # Publications 
