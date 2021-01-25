@@ -11,26 +11,46 @@
     My research interest includes Vision SLAM,    
     Object Detection and 6DOF measurement problems.
 
------------------------------------------------------
+**June. 2012, Modified version of Monocular-SLAM Based On PTAM**  
+
+<table>
+ <tr>
+       <td width="40%"> 
+       <img src="./images/ptam1.jpeg" width = "240" height = "330"  />
+       </td>
+       <td width="40%">
+        <img src="./images/ptam2.jpeg" width = "240" height = "330" />     
+       </td>
+        <td width = "20%">
+          Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
+        </td>
+  </tr>
+</table>   
 
 
+
+------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+
+----------------------------------------------------- 
 
 
 
 **Mar. 2010, Vehicle Lane Detection Based On Particle Filter**  
 
-<tr>
-    <th>
-    <img src="./images/lane_detection1.jpeg" width = "240" height = "330" />   
-    </th>
-    <th>
-    <img src="./images/lane_detection2.jpeg" width = "240" height = "330" />     
-    </th>
-    <th>
+<table>
+ <tr>
+       <td width="40%"> 
+       <img src="./images/lane_detection1.jpeg" width = "240" height = "330"  />
+       </td>
+       <td width="40%">
+        <img src="./images/lane_detection2.jpeg" width = "240" height = "330" />     
+       </td>
+        <td width = "20%">
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
+        </td>
+  </tr>
+</table>   
 
-    </th>
-</tr>
 
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
