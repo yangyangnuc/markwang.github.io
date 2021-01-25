@@ -1,5 +1,6 @@
 # Basic Info. 
-    Jinyang Wang   王金洋  <img src="./images/image.png" alt="" width="240" height="330" align="right" /> 
+    Jinyang Wang   王金洋  
+<img src="./images/image.png" alt="" width="240" height="330" align="right" /> 
 
 ## Education 
     Master of Control Engineering, North University of China, Sep 2012 - July 2015
