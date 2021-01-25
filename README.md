@@ -10,20 +10,6 @@
     My research interest includes Vision SLAM,    
     Object Detection and 6DOF measurement problems.
 
-
-Feb. 2020: Two papers are accepted by CVPR 2020.      
-
-Jan. 2020: One paper is accepted by TPAMI.     
-
-Jan. 2020: Three papers are accepted by IEEE TIP.     
-
-Dec. 2019: Two papers are accepted by AAAI 2020.    
-
-Sep. 2019: Two papers are accepted by ICCV 2019.    
-
-Apr. 2019: We have released our stereo blur dataset       
-
-
 -----------------------------------------------------
 ## Mar. 2010: Vehicle Lane Detection Based On Particle Filter  
 
@@ -41,14 +27,9 @@ Apr. 2019: We have released our stereo blur dataset
 
 
 
-
-Jan. 2019: Two papers are accepted by IJCV.    
-
-Jul. 2018: One paper is accepted by ECCV 2018.     
-
-Mar. 2018: One paper is accepted by TPAMI.    
-
-Mar. 2018: Six papers (including one Spotlight) are accepted by CVPR 2018.    
+  
+  
+  
 
 # Publications 
 
