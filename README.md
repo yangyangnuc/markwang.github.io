@@ -21,13 +21,18 @@ Dec. 2019: Two papers are accepted by AAAI 2020.
 
 Sep. 2019: Two papers are accepted by ICCV 2019.    
 
-Apr. 2019: We have released our stereo blur dataset   
+Apr. 2019: We have released our stereo blur dataset       
+
 
 -----------------------------------------------------
-## Mar. 2010: Vehicle Lane Detection Based On Particle Filter
+## Mar. 2010: Vehicle Lane Detection Based On Particle Filter  
+
 <img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=left />   
-<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=right />   
-------------[code]-------[video]--------------
+
+<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=right />     
+
+------------[code]-------[video]--------------   
+
 
 
 
