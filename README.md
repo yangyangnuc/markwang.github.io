@@ -2,11 +2,11 @@
     Jinyang Wang   王金洋  
 <img src="./images/image.png" alt="" width="240" height="330" align="right" /> 
 
-    **Education** 
+**Education** 
     Master of Control Engineering, North University of China, Sep 2012 - July 2015
     Bachelor of Process Equipment and Control Engineering, Sep 2006 - July 2010
 
-    **Contact**
+**Contact**
     Email, yangyangnuc AT outlook DOT com 
 
 
