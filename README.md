@@ -18,7 +18,7 @@ My research interest includes Vision SLAM, Object Detection and 6DOF measurement
 
 
 
-## Latest News
+## Activities
 Feb. 2020: Two papers are accepted by CVPR 2020.      
 
 Jan. 2020: One paper is accepted by TPAMI.     
