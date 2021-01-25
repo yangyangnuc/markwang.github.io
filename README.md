@@ -29,9 +29,17 @@
 
 **May. 2009, Barrier Detection Based on Jordan Curve Theorem**  
 
-<img src="./images/barrier_detection1.jpeg" width = "240" height = "330" div align=center />   
 
-<img src="./images/barrier_detection2.jpeg" width = "240" height = "330" div align=center />     
+ <tr>
+    <th>
+        <img src="./images/barrier_detection1.jpeg" width = "240" height = "330"  />
+    </th>
+    <th>
+        <img src="./images/barrier_detection2.jpeg" width = "240" height = "330" />     
+    </th>
+  </tr>
+   
+
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
 
