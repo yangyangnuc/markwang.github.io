@@ -1,6 +1,7 @@
 # Basic Info. 
     Jinyang Wang   王金洋  
-<img src="./images/image.png" alt="" width="240" height="330" align="right" /> 
+
+![Alt text](./images/image.png "hey, it's me!")
 
 **Education**    
 
