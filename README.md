@@ -17,7 +17,7 @@
 
 
 
-## Mar. 2010, Vehicle Lane Detection Based On Particle Filter  
+**Mar. 2010, Vehicle Lane Detection Based On Particle Filter**  
 
 <img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=center />   
 
@@ -27,7 +27,7 @@
 
 -----------------------------------------------------  
 
-## May. 2009, Barrier Detection Based on Jordan Curve Theorem  
+**May. 2009, Barrier Detection Based on Jordan Curve Theorem**  
 
 <img src="./images/barrier_detection1.jpeg" width = "240" height = "330" div align=center />   
 
