@@ -7,13 +7,9 @@
 
 # Research Interest
 
-    My research interest includes Vision SLAM, Object Detection and 6DOF measurement problems.
+    My research interest includes Vision SLAM,    
+    Object Detection and 6DOF measurement problems.
 
-# Engineering 
-
-
-
-# Activities
 
 Feb. 2020: Two papers are accepted by CVPR 2020.      
 
@@ -27,7 +23,13 @@ Sep. 2019: Two papers are accepted by ICCV 2019.
 
 Apr. 2019: We have released our stereo blur dataset [download].    
 
-Mar. 2019: Two papers (including one Oral) are accepted by CVPR 2019.    
+## Mar. 2010: Vehicle Lane Detection Based On Particle Filter
+<img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=left />   
+<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=right />   
+
+
+
+
 
 Jan. 2019: Two papers are accepted by IJCV.    
 
@@ -37,7 +39,7 @@ Mar. 2018: One paper is accepted by TPAMI.
 
 Mar. 2018: Six papers (including one Spotlight) are accepted by CVPR 2018.    
 
-## Selected Publications 
+# Publications 
 
 Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
 [Project] [Paper] [MATALB code]
