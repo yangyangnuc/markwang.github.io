@@ -41,13 +41,13 @@
 
 <table>
  <tr>
-       <td width=40%> 
+       <td width="40%"> 
        <img src="./images/barrier_detection1.jpeg" width = "240" height = "330"  />
        </td>
-       <td width=40%>
+       <td width="40%">
         <img src="./images/barrier_detection2.jpeg" width = "240" height = "330" />     
        </td>
-        <td width = 20%>
+        <td width = "20%">
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
         </td>
   </tr>
@@ -72,3 +72,4 @@
 
 Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
 [Project] [Paper] [MATALB code]
+'
