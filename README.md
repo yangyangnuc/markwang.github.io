@@ -3,13 +3,13 @@
 
 
 ## Master of Control Engineering               
-
-Email:  yangyangnuc@outlook.com 
+## North University of China
+Email:  yangyangnuc AT outlook DOT com 
 
 
 ## Research Interest
 
-My research interest includes image deblurring, image/video enhancement and analysis, and related vision problems.
+My research interest includes Vision SLAM, Object Detection and 6DOF measurement problems.
 
 ## Latest News
 Feb. 2020: Two papers are accepted by CVPR 2020.      
