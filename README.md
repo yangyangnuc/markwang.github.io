@@ -17,7 +17,7 @@
 
 <img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=left />     
 
-------------[code]-------[video]--------------   
+------------[code](www.baidu.com)-------[video](www.yahoo.com)--------------   
 
 -----------------------------------------------------  
 
