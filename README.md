@@ -1,10 +1,11 @@
 # Basic Info. 
     Jinyang Wang   王金洋  
-    
-![Alt text](./images/image.png "hey, it's me!")  
+
+<img src="./images/me.png" width = "240" height = "330" div align=right />  
 
 **Education**    
-    Master of Control Engineering, North University of China, Sep 2012 - July 2015
+    Master of Control Engineering, North University of China, Sep 2012 - July 2015  
+
     Bachelor of Process Equipment and Control Engineering, Sep 2006 - July 2010
 
 **Contact**   
