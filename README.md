@@ -1,8 +1,11 @@
 # Basic Info. 
-Jinyang Wang    <img src="./images/image.png" alt="" width="77" height="110" align="right" /> 
+Jinyang Wang   王金洋  <img src="./images/image.png" alt="" width="77" height="110" align="right" /> 
 
-## Education, Master of Control Engineering, North University of China
-## Contact, Email:  yangyangnuc AT outlook DOT com 
+## Education 
+    Master of Control Engineering, North University of China, Sep 2012 - July 2015
+    Bachelor of Process Equipment and Control Engineering, Sep 2006 - July 2010
+## Contact, 
+    Email, yangyangnuc AT outlook DOT com 
 
 
 # Research Interest
