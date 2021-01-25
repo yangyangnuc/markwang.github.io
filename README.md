@@ -26,8 +26,11 @@
     <th>
     <img src="./images/lane_detection2.jpeg" width = "240" height = "330" />     
     </th>
-</tr>
+    <th>
+          Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
 
+    </th>
+</tr>
 
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
@@ -44,6 +47,11 @@
     <th>
         <img src="./images/barrier_detection2.jpeg" width = "240" height = "330" />     
     </th>
+    <th>
+          Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
+
+    </th>
+
   </tr>
    
 
