@@ -1,8 +1,8 @@
 # Basic Info. 
 Jinyang Wang    <img src="./images/image.png" alt="" width="77" height="110" align="right" /> 
 
-Education, Master of Control Engineering, North University of China
-Email:  yangyangnuc AT outlook DOT com 
+## Education, Master of Control Engineering, North University of China
+## Contact, Email:  yangyangnuc AT outlook DOT com 
 
 
 # Research Interest
