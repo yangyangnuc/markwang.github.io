@@ -19,9 +19,16 @@
 
 **Mar. 2010, Vehicle Lane Detection Based On Particle Filter**  
 
-<img src="./images/lane_detection1.jpeg" width = "240" height = "330" div align=center />   
+<tr>
+    <th>
+    <img src="./images/lane_detection1.jpeg" width = "240" height = "330" />   
+    </th>
+    <th>
+    <img src="./images/lane_detection2.jpeg" width = "240" height = "330" />     
+    </th>
+</tr>
 
-<img src="./images/lane_detection2.jpeg" width = "240" height = "330" div align=center />     
+
 
 ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
 
