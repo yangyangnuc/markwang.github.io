@@ -1,16 +1,40 @@
 
-# Basic Info. 
+  
+    
+
+
+
+<table>
+  <tr>
+    <td width = "50%">  
+
+  # Basic Info. 
     Jinyang Wang   王金洋  
     Master of Control Engineering, North University of China, Sep 2012 - July 2015  
     Bachelor of Process Equipment and Control Engineering, Sep 2006 - July 2010
-    Email, yangyangnuc AT outlook DOT com  
-    
-<img src="./images/me.png" width = "240" height = "330" div align=right />   
+    Email, yangyangnuc AT outlook DOT com
 
+    </td>
+
+    <td>
+<img src="./images/me.png" width = "240" height = "330" div align=right />   
+    </td>
+
+    <td>  
 # Research Interest
 
     My research interest includes Vision SLAM,  
     Object Detection and 6DOF measurement problems.
+
+
+    </td>
+
+    
+
+
+  </tr>
+
+</table>
 
   
 
