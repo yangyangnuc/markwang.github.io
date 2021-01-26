@@ -16,7 +16,7 @@
 
 <table>
  <tr>  
-  <td>  
+  <td width="100%">  
 
   **June. 2012, Modified version of Monocular-SLAM Based On PTAM**
   
