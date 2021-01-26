@@ -43,7 +43,7 @@
 
 </table>
 
-  
+-----------------------------------------------------  
 
 <table>
  <tr>  
@@ -70,10 +70,13 @@
   </tr>
 
   <tr>
-    <td>
-      ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+    <td>  
+
+[code](https://www.baidu.com) [video](https://www.yahoo.com)
 
     </td>
+    <td></td>
+    <td></td>
 
   </tr>
 </table>   
@@ -108,10 +111,13 @@
   </tr>
 
   <tr>
-    <td>
-      ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+    <td>  
+
+[code](https://www.baidu.com) [video](https://www.yahoo.com)
 
     </td>
+    <td></td>
+    <td></td>
 
   </tr>
 
@@ -151,10 +157,15 @@
   </tr>
 
   <tr>
-    <td>
-      ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+    <td>  
+    
+[code](https://www.baidu.com)  [video](https://www.yahoo.com)
 
     </td>
+    <td></td>
+    <td></td>
+
+ 
 
   </tr>
 
