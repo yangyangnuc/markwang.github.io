@@ -1,4 +1,4 @@
-
+<body  bgcolor="#E6E6FA">
   
     
 
@@ -165,4 +165,8 @@
 
 Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
 [Project] [Paper] [MATALB code]
-'
+
+
+
+
+</body>
