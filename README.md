@@ -9,7 +9,7 @@
 
 # Research Interest
 
-    My research interest includes <p >Vision SLAM </p> ,    
+    My research interest includes Vision SLAM,  
     Object Detection and 6DOF measurement problems.
 
   
