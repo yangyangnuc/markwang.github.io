@@ -30,8 +30,8 @@
   </tr>
   <tr>
     <td>   
-    My research interest includes Vision SLAM,  
-    Object Detection and 6DOF measurement problems.
+    My research interest includes 
+    <p style="font-weight:bold"> Vision SLAM, Object Detection and 6DOF measurement problems</p>
   <td>  
 
 
