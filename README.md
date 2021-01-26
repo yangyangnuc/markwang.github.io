@@ -359,15 +359,14 @@
 
 </table>
 
-  
 
-  
- 
+  <table>
+  <tr>
+    <td width = "100%">  <img src="./images/bottom1.jpeg" width = "240" height = "330" div align=right />   
+   </td>
+  </tr>
 
-
-[
-
-
+  </table>
 
 
 </body>
