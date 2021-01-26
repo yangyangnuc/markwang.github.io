@@ -9,7 +9,7 @@
 
 # Research Interest
 
-    My research interest includes Vision SLAM,    
+    My research interest includes <p >Vision SLAM </p> ,    
     Object Detection and 6DOF measurement problems.
 
   
@@ -18,7 +18,7 @@
  <tr>  
   <td >  
 
-    June. 2012, Modified version of Monocular-SLAM Based On PTAM
+    Modified version of Monocular-SLAM Based On PTAM
   
   </td>
     <td>
@@ -52,7 +52,7 @@
   <tr>
     <td>  
 
-    Mar. 2010, Vehicle Lane Detection Based On Particle Filter
+    Vehicle Lane Detection Based On Particle Filter
 
     </td>
     <td>
@@ -89,7 +89,7 @@
   <tr>
     <td>  
 
-      May. 2009, Barrier Detection Based on Jordan Curve Theorem
+      Barrier Detection Based on Jordan Curve Theorem
 
     </td>
     <td>
