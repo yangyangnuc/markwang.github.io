@@ -68,15 +68,15 @@
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
         </td>
   </tr>
+
+  <tr>
+    <td>
+      ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+
+    </td>
+
+  </tr>
 </table>   
-
-
-
-------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
-
------------------------------------------------------ 
-
-
 
 
 <table>
@@ -106,13 +106,20 @@
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
         </td>
   </tr>
+
+  <tr>
+    <td>
+      ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+
+    </td>
+
+  </tr>
+
+
 </table>   
 
 
 
-------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
-
------------------------------------------------------  
 
 
 <table>
@@ -142,12 +149,21 @@
           Jiangxin Dong and Jinshan Pan, "Physics-Based Feature Dehazing Networks", European Conference on Computer Vision (ECCV), 2020. 
         </td>
   </tr>
+
+  <tr>
+    <td>
+      ------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
+
+    </td>
+
+  </tr>
+
+
+
 </table>   
 
 
-------------[code](https://www.baidu.com)-------[video](https://www.yahoo.com)--------------   
 
------------------------------------------------------  
 
 
 
