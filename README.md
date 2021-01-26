@@ -70,8 +70,9 @@
 
   <tr>
     <td>  
-
-[code](https://www.baidu.com) [video](https://www.yahoo.com)
+<a href="http://www.baidu.com">[code]</a>
+<a href="http://www.baidu.com">[video]</a>
+<a href="http://www.baidu.com">[paper]</a>
 
     </td>
     <td></td>
@@ -112,7 +113,9 @@
   <tr>
     <td>  
 
-[code](https://www.baidu.com) [video](https://www.yahoo.com)
+<a href="http://www.baidu.com">[code]</a>
+<a href="http://www.baidu.com">[video]</a>
+<a href="http://www.baidu.com">[paper]</a>
 
     </td>
     <td></td>
@@ -158,7 +161,9 @@
   <tr>
     <td>  
     
-[code](https://www.baidu.com)  [video](https://www.yahoo.com)
+<a href="http://www.baidu.com">[code]</a>
+<a href="http://www.baidu.com">[video]</a>
+<a href="http://www.baidu.com">[paper]</a>
 
     </td>
     <td></td>
