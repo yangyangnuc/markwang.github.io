@@ -16,8 +16,11 @@
 
 <table>
  <tr>  
- 
- **June. 2012, Modified version of Monocular-SLAM Based On PTAM**
+  <td>  
+
+  **June. 2012, Modified version of Monocular-SLAM Based On PTAM**
+  
+  </td>
  </tr>
  <tr>
        <td width="40%"> 
