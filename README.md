@@ -21,10 +21,10 @@
   **June. 2012, Modified version of Monocular-SLAM Based On PTAM**
   
   </td>
-  <td>
-  </td>
-  <td>
-  </td>
+    <td>
+    </td>
+    <td>
+    </td>
  </tr>
  <tr>
        <td width="40%"> 
