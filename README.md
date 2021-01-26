@@ -12,9 +12,13 @@
     My research interest includes Vision SLAM,    
     Object Detection and 6DOF measurement problems.
 
-**June. 2012, Modified version of Monocular-SLAM Based On PTAM**  
+  
 
 <table>
+ <tr>  
+ 
+ **June. 2012, Modified version of Monocular-SLAM Based On PTAM**
+ </tr>
  <tr>
        <td width="40%"> 
        <img src="./images/ptam1.jpeg" width = "240" height = "330"  />
