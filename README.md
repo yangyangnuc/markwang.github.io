@@ -181,17 +181,191 @@
 
 
 
+<table>
+  <tr>
+    <td> <p style="font-weight:bold"> Publications </p> </td>
+    <td>   </td>
+  </tr>
+
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td> <p > Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013. </p> </td>
+    <td> 
+    
+      <a href="http://www.baidu.com">[code]</a>
+      <a href="http://www.baidu.com">[video]</a>
+      <a href="http://www.baidu.com">[paper]</a>
+      
+    </td>
+  </tr>
+
+  
 
 
+</table>
 
   
 
   
+ 
 
-# Publications 
 
-Jinshan Pan inshan Pan, Risheng Liu, Zhixun Su, and Xianfeng Gu, "Kernel Estimation from Salient Structure for Robust Motion Deblurring", Signal Processing: Image Communication, 2013.
-[Project] [Paper] [MATALB code]
+[
 
 
 
