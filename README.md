@@ -18,7 +18,7 @@
  <tr>  
   <td >  
 
-  **June. 2012, Modified version of Monocular-SLAM Based On PTAM**
+    June. 2012, Modified version of Monocular-SLAM Based On PTAM
   
   </td>
     <td>
@@ -51,8 +51,8 @@
 <table>
   <tr>
     <td>  
-    
-**Mar. 2010, Vehicle Lane Detection Based On Particle Filter**  
+
+    Mar. 2010, Vehicle Lane Detection Based On Particle Filter
 
     </td>
     <td>
@@ -83,9 +83,23 @@
 
 -----------------------------------------------------  
 
-**May. 2009, Barrier Detection Based on Jordan Curve Theorem**  
 
 <table>
+
+  <tr>
+    <td>  
+
+      May. 2009, Barrier Detection Based on Jordan Curve Theorem
+
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    
+
+
+  </tr>
  <tr>
        <td width="40%"> 
        <img src="./images/barrier_detection1.jpeg" width = "240" height = "330"  />
