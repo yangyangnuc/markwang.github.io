@@ -8,8 +8,6 @@
   <tr>
     <td width = "50%">  
 
-  Basic Info.  <br />
-
     Jinyang Wang   王金洋     <br />
 
     Master of Control Engineering, North University of China, Sep 2012 - July 2015  <br />  
