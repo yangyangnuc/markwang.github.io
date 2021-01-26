@@ -8,16 +8,16 @@
   <tr>
     <td width = "50%">  
 
-  Basic Info.  
+  Basic Info.  <br />
 
-    Jinyang Wang   王金洋     
-    
-    Master of Control Engineering, North University of China, Sep 2012 - July 2015    
+    Jinyang Wang   王金洋     <br />
 
-    Bachelor of Process Equipment and Control Engineering, Sep 2006 - July 2010    
+    Master of Control Engineering, North University of China, Sep 2012 - July 2015  <br />  
+
+    Bachelor of Process Equipment and Control Engineering, Sep 2006 - July 2010   <br /> 
 
 
-    Email, yangyangnuc AT outlook DOT com
+    Email, yangyangnuc AT outlook DOT com  <br />
 
     </td>
 
