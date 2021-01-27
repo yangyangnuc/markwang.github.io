@@ -31,7 +31,7 @@
   <tr>
     <td>   
     My research interest includes 
-    <p style="font-weight:bold"> Vision SLAM, Object Detection and 6DOF measurement problems</p>
+    <p style="font-weight:bold"> Vision SLAM, 6DOF measurement problems using 3D Point Cloud</p>
   <td>  
 
 
