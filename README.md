@@ -20,7 +20,7 @@
     </td>
 
     <td>
-<img src="./images/me.png" width = "240" height = "330" div align=right />   
+<img src="./images/bottom1.jpeg" width = "240" height = "330" div align=right />   
     </td>
 
 
