@@ -68,9 +68,9 @@
 
   <tr>
     <td>  
-<a href="http://www.baidu.com">[code]</a>
-<a href="http://www.baidu.com">[video]</a>
-<a href="http://www.baidu.com">[paper]</a>
+    <a href="http://www.baidu.com">[code]</a>
+    <a href="http://www.baidu.com">[video]</a>
+    <a href="http://www.baidu.com">[paper]</a>
 
     </td>
     <td></td>
